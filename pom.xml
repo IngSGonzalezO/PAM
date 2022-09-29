@@ -3,11 +3,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sefin-rrhh</groupId>
-  <artifactId>pr_rrhh_carga_reloj</artifactId>
-  <version>1.0.5-SNAPSHOT</version>
+  <artifactId>pr_rrhh_solicitudes</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>pr-rrhh-carga-reloj</name>
-  <description>Carga de reloj marcador</description>
+  <name>pr-rrhh-solicitudes</name>
+  <description>Solicitud Constancia Laboral
+Solicitud Pase de Salida
+Solicitud Cita INJUPEM
+Solicitud Ausencia o Llegadas Tarde
+Solicitu de Vacaciones</description>
   <dependencies>
     <dependency>
       <groupId>org.kie</groupId>
